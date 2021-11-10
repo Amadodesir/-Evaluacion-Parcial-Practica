@@ -68,7 +68,7 @@ nav ul li a:hover {
 }
 
 #section-main_image h2 {
-    color #ffffff text-shadow: "2px 2px 5px #000;"
+    text-shadow: 2px 2px 5px #000;
 }
 
 
@@ -111,6 +111,7 @@ nav ul li a:hover {
     color: #eeeeeeee;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 #footer-contact .contact-data {
